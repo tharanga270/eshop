@@ -6,7 +6,7 @@ this project is sample of ecommerce site
 3.import that sql script to that("eshop") database
 
 now you can run the project using
-<php artisan serve>
+"php artisan serve"
  
 ==login details of project===
 -admin user-
