@@ -1,4 +1,4 @@
-this project is sample of ecommerce site
+this project is sample of ecommerce site using Laravel 8
 
 ==how to set up project===
 1.get the sql script inside /bin folder
