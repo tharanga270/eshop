@@ -1,0 +1,38 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.feature-product-row img,
+.feature-category-row img{
+    height: 200px;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.link-section a{
+    color: black;
+    font-weight: bold;
+}
+
+.checkout-form label{
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.checkout-form input{
+    font-size: 14px;
+    padding: 5px;
+    font-weight: 400;
+}
+
+.order-details label{
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.order-details div{
+    font-size: 14px;
+    padding: 5px !important;
+}

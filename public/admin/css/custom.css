@@ -1,0 +1,19 @@
+
+.cate-image{
+    width: 70px;
+    height: 70px;
+}
+
+.edit-image{
+    width: 250px;
+}
+
+.order-details label{
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.order-details div{
+    font-size: 14px;
+    padding: 5px !important;
+}
